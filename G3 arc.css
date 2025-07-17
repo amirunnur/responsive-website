@@ -135,7 +135,7 @@ main>section{
 .features{
     gap: 140px;
 }
-.featured-architect img{
+.featured-architect{
   width: 100%;
 }
 /* facts style */
